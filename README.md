@@ -1,6 +1,10 @@
 # GraphicsView
 ## 简介
-这是一个简易的绘图项目，基于QT的QGraphicsView开发，同时参考了QtCreator中的Chips案例，适合有C++基础但对QT不太熟悉的开发人员自学。
+这是一个简易的绘图项目，基于QT的QGraphicsView开发，同时参考了QtCreator中的Chips案例。
+本项目偏向于介绍框架层面、原理层面的知识，适合有C++基础但对QT不太熟悉的开发人员自学。
+
+## 构建
+本项目使用CMake构建，需要安装QT，并在环境变量中提供QT路径，如"D:/Qt/Qt5.14.2/5.14.2/msvc2017_64/bin"
 
 ## 说明
 - 支持添加自定义图形
